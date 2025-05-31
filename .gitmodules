@@ -1,6 +1,6 @@
 [submodule "modules/Fu_-_En1_-_En2_Strategy"]
 	path = modules/Fu_-_En1_-_En2_Strategy
 	url = https://github.com/ShindyMiyata-SHARE/Fu_-_En1_-_En2_Strategy.git
-[submodule "DrAttack"]
-	path = DrAttack
+[submodule "modules/DrAttack"]
+	path = modules/DrAttack
 	url = https://github.com/ShindyMiyata-SHARE/DrAttack.git
